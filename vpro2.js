@@ -17,7 +17,9 @@ alert("Odd Number");
 </script>
 </head>
 <body>
+no is shown
 Enter Any Number:<input id="no_input"><br />
 <button onclick="odd_even()">Click me</button>
 </body>
 </html>
+
