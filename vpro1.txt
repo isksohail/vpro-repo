@@ -1,0 +1,2 @@
+Github is a remote repository provider.
+It is a Distributed Version Control System.
